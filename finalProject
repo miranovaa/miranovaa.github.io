@@ -1,0 +1,41 @@
+<!DOCTYPE html> 
+<html> 
+  <head> 
+    <meta charset="utf-8"> 
+    <title>Mira's Programming Portfolio</title> 
+    <style>
+       .body {background-image: url(miranovaa.github.io/milkyway1.jpeg);} 
+
+      #banner {width: 100%;};
+      #button-1 {width: 150px; margin: 0.5% 0.5% 0.5% 0.5%}
+      #button-2 {width: 150px; margin: 0.5% 0.5% 0.5%} 
+      #button-3 {width: 150px; margin: 0.5% 0.5% 0.5%} 
+      #button-4 {width: 150px; margin: 0.5% 0.5% 0.5%} 
+      .text {color: yellow;}
+
+    </style> 
+  </head> 
+  <div class="body">
+  <body> 
+   
+      <img id="banner" src="myBanner.jpg" alt="CSC 106 Banner"> <br>
+<table> 
+      <tr> <a href="https://miranovaa.github.io">
+        <img id="button-1" src="home.png" alt="Home Button"> </a> </tr> 
+      
+      <tr>  <a href="https://miranovaa.github.io/javascripts"> 
+        <img id="button-2" src="javascripts.png" alt="JavaScript Button"> </a> </tr>  
+    
+     <tr> <a href="https://miranovaa.github.io/apps.html">
+       <img id="button-3" src="Apps.png" alt="Apps Button"> </a> </tr> 
+     
+      <tr> <a href="https://miranovaa.github.io/about"> 
+        <img id="button-4" src="about.png" alt="About me button"> </a> </tr> 
+     
+      <tr> <a href="https://miranovaa.github.io/finalProject"> 
+        <img id="button-5" src="finalproject.png" alt="Final Project Button"> </a> </tr> 
+     
+    </table> 
+  
+        
+  <h1 class="text"> Welcome to Mira's Programming Portfolio!</h1> 
